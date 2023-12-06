@@ -1,8 +1,12 @@
 # Project-2
 Dylan Vila: https://github.com/dylanvila1
+
 Jonathan Gilbertson: https://github.com/Jonathan-Gilbertson
+
 Robert Delorme: https://github.com/BobbyDeLorme
+
 Ryan Burstiner: https://github.com/ryanburst1
+
 Brett Serwin: https://github.com/brettserwin
 
 ## Description of Data set
